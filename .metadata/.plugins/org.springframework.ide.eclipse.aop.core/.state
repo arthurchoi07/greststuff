@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="CleanBnB"/>
+<aop-project name="fDynamicWeb"/>
+<aop-project name="hWebBoard"/>
+<aop-project name="hWebBoard1"/>
+<aop-project name="hWebBoard2"/>
+</aop-reference-model>
